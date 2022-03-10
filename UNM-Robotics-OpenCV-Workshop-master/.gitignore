@@ -1,0 +1,6 @@
+.Python
+.venv/
+.vscode/
+__pycache__/
+git config --global user.email "hfyct3@nottingham.edu.my"
+git config --global user.name "ting0608"

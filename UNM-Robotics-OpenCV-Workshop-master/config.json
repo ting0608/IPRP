@@ -1,0 +1,77 @@
+{
+    "book.jpg": {
+        "color": {
+            "low": {
+                "H": 17,
+                "S": 118,
+                "V": 70
+            },
+            "high": {
+                "H": 103,
+                "S": 201,
+                "V": 255
+            }
+        },
+        "threshold": {
+            "method": 0,
+            "value": 130,
+            "block size": 0,
+            "C": 0
+        }
+    },
+    "lorem.jpg": {
+        "color": {
+            "low": {
+                "H": 96,
+                "S": 97,
+                "V": 69
+            },
+            "high": {
+                "H": 227,
+                "S": 238,
+                "V": 229
+            }
+        },
+        "threshold": {
+            "method": 1,
+            "value": 60,
+            "block size": 11,
+            "C": 6
+        }
+    },
+    "facemask_edited.jpg": {
+        "color": {
+            "low": {
+                "H": 50,
+                "S": 6,
+                "V": 64
+            },
+            "high": {
+                "H": 255,
+                "S": 255,
+                "V": 255
+            }
+        },
+        "threshold": {}
+    },
+    "7_habits.jpg": {
+        "color": {
+            "low": {
+                "H": 19,
+                "S": 64,
+                "V": 137
+            },
+            "high": {
+                "H": 255,
+                "S": 255,
+                "V": 255
+            }
+        },
+        "threshold": {
+            "method": 0,
+            "value": 94,
+            "block size": 55,
+            "C": 55
+        }
+    }
+}
