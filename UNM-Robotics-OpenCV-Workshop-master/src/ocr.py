@@ -3,6 +3,7 @@ from cv2 import perspectiveTransform
 import numpy as np
 import pytesseract
 
+
 import argparse
 import os
 from logging import error
